@@ -50,7 +50,7 @@ uv --version
 
 ```bash
 git clone https://github.com/biguscj7/pytorch-torchsig
-cd pytorch-pysig
+cd pytorch-torchsig
 ```
 
 ### Install everything
